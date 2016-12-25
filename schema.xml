@@ -1,0 +1,5 @@
+<messages>
+<message name="TemplateRequest">
+	<member type="u32" name="templateValue"/>
+</message>
+</messages>
